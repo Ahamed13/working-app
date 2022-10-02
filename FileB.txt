@@ -1,4 +1,4 @@
 This is FileB
 let make a changes
 another change made to FileB
-This Squash merge
+This Squash merge on fileb
