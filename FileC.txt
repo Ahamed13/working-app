@@ -1,3 +1,4 @@
 This is FileC
 made change on FileC
 This squash merge on the fileC
+Another changes had made to filec
