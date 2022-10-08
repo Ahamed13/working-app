@@ -3,3 +3,4 @@ let make a changes
 another change made to FileB
 This Squash merge on fileb
 Another change made to FileB
+Another Squash merge on fileb
